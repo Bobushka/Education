@@ -1,3 +1,4 @@
 # Education
 all 
-Here are all my :investigations: storaged
+Here are all my investigations storaged
+:coffe:
