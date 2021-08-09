@@ -1,4 +1,3 @@
 # Education
 all 
-Here are all my investigations storaged
-:coffe:
+Here is the place where all my investigations are storaged
